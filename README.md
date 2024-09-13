@@ -11,7 +11,7 @@ We used MS MARCO passage data sets.
 ## Initial and modified instructions.
 
 We used the instructions from previous research as our initial instruction. <br>
-We list the instructions optimized by GPT-3.5 and GPT-4 in the file 'instructions_modifed.xls'.
+We list the instructions optimized by GPT-3.5 and GPT-4 in the file 'instructions_modifed.xlsx'.
 
 - M1 예제 <br>
 ![github_example](https://github.com/user-attachments/assets/d9d1fbf3-1f81-41e3-a0b6-53dcff442d3e)
